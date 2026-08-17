@@ -1,1 +1,5 @@
-/home/jitendra-k-jangid/Projects/AI-stuff/repos/Cards-pub/Learnings.md
+# Cards-pub - Learnings.md
+
+See [global AGENTS.md](file:///C:\Users\jituj\Documents\GitHub\AI-stuff/AGENTS.md) for universal rules.
+
+Project specific rules and architecture for Cards-pub.
